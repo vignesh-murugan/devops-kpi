@@ -1,4 +1,4 @@
-# [DevOps and it's Key Performance Indicator (KPI)](https://vignesh-murugan.github.io/devops-reveal/)
+# [DevOps and it's Key Performance Indicator (KPI)](https://vignesh-murugan.github.io/devops-kpi/)
 
 
 -----------------------------------------------------------------------------
